@@ -44,7 +44,7 @@ Here are some of my projects on GitHub:
 
 ## 📈 GitHub Stats
 
-![Ritesh Pandey GitHub Stats](https://github-readme-stats.vercel.app/api?username=riteshpandey&show_icons=true&theme=radical)
+![Ritesh Pandey GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritshea&show_icons=true&theme=radical)
 
 ---
 
